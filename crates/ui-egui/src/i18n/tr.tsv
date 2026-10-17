@@ -210,7 +210,7 @@
 	Area Text Objects	Alan Metin Nesneleri
 	Area Type Options	Alan Tipi Seçenekleri
 	Area Type Options…	Alan Tipi Seçenekleri…
-	Area Type Tool	Alan Tipi Aracı
+	Area Type Tool	Alan Metni Aracı
 	Around Object	Nesnenin Etrafında
 	Arrange	Düzenle
 	Arrange: Bring to Front	Düzenle: Öne Getir
@@ -294,7 +294,7 @@
 	Blends and Transparency	Karışımlar ve Şeffaflık
 	Bloat Tool	Şişirme Aracı
 	Blob Brush	Kabarcık Fırçası
-	Blob Brush Tool	Kabarcık Fırça Aracı
+	Blob Brush Tool	Kabarcık Fırçası Aracı
 	Blue	Mavi
 	Blur	Bulanıklaştırma
 	Bottom	Alt
@@ -641,7 +641,7 @@
 	Current Colors ({total})	Mevcut Renkler ({total})
 	Current Symbol	Mevcut Sembol
 	Curvature	Eğrilik
-	Curvature Tool	Eğrilik Aracı
+	Curvature Tool	Kavis Aracı
 	Curves…	Eğriler…
 	Custom	Özel
 	Customize…	Özelleştir…
@@ -740,7 +740,7 @@
 	Discard Recovered Documents	Kurtarılan Belgeleri Atın
 	Discard White Overprint in Output	Çıktıdaki Beyaz Üst Baskıyı At
 	Discarded {} recovered document(s)	Kurtarılan {} belge atıldı
-	Discord	Anlaşmazlık
+	Discord	Discord
 	Discretionary Hyphen	İsteğe Bağlı Kısa Çizgi
 	Discretionary Ligatures	İsteğe Bağlı Bitişik Harfler
 	Display All Blacks Accurately	Tüm Siyahları Doğru Şekilde Görüntüleyin
@@ -1038,8 +1038,8 @@
 	Eyedropper: click the art to sample the stop's colour	Damlalık: durağın rengini örneklemek için resme tıklayın
 	Favorites	Favoriler
 	Feather…	tüy…
-	Feet	Ayaklar
-	Feet & Inches	Ayak ve İnç
+	Feet	Fit
+	Feet & Inches	Fit ve İnç
 	Fewer <tspan> Elements	Daha az <tspan> Öğesi
 	Fidelity:	Sadakat:
 	Figure Space	Şekil Alanı
@@ -1100,7 +1100,7 @@
 	Fit to Selected Art	Seçilen Sanata Sığdır
 	Flag…	Bayrak…
 	Flare	parlama
-	Flare Tool	Parlama Aracı
+	Flare Tool	Mercek Parlaması Aracı
 	Flare Tool Options	Genişletme Aracı Seçenekleri
 	Halo	Hale
 	Rays	Işınlar
@@ -1132,7 +1132,7 @@
 	Flip Horizontal	Yatay Çevir
 	Flip Row Order	Satır Sırasını Çevir
 	Flip Vertical	Dikey Çevir
-	Float in Window	Pencerede Kaydır
+	Float in Window	Pencerede Yüzer Yap
 	Focal Fill	Odak Dolgusu
 	Focal Stroke	Odak Vuruşu
 	Folder	Klasör
@@ -1416,11 +1416,11 @@
 	Italian	İtalyan
 	Japanese	Japonca
 	Join	Katıl
-	Join Our Discord	Anlaşmazlığımıza Katılın
+	Join Our Discord	Discord'umuza Katılın
 	Join our Discord	Discord'umuza katılın
 	Join the ArtCraft community on Discord (discord.gg/artcraft)	Discord'daki ArtCraft topluluğuna katılın (discord.gg/artcraft)
 	Join the lines of each paragraph	Her paragrafın satırlarını birleştirin
-	Join Tool	Katılın Aracı
+	Join Tool	Birleştirme Aracı
 	Justification…	Gerekçe…
 	Justify all lines	Tüm satırları iki yana yasla
 	Justify with last line aligned center	Son satıra hizalanmış merkeze yasla
@@ -1552,7 +1552,7 @@
 	Line Breaks	Satır Sonları
 	Line Color	Çizgi Rengi
 	Line Cut	Çizgi Kesim
-	Line Cut Tool	Çizgi Kesme Aleti
+	Line Cut Tool	Çizgi Kesme Aracı
 	Line Endings:	Satır Sonları:
 	Line Graph Tool	Çizgi Grafik Aracı
 	Line Segment	Çizgi Segmenti
@@ -1671,7 +1671,7 @@
 	Merge Layers	Katmanları Birleştir
 	Merge Selected	Seçilenleri Birleştir
 	Merge Swatches	Renk Örneklerini Birleştir
-	Mesh Tool	Ağ Aracı
+	Mesh Tool	Kafes Aracı
 	Message:	Mesaj:
 	Metadata:	Meta veriler:
 	Metallic Gradients	Metalik Degradeler
@@ -2052,7 +2052,7 @@
 	Page Knockout Group	Sayfa Nakavt Grubu
 	Pages	Sayfalar
 	Paintbrush	Boya fırçası
-	Paintbrush Tool	Fırça Aracı
+	Paintbrush Tool	Boya Fırçası Aracı
 	Panel menu	Panel menüsü
 	Panel Options…	Panel Seçenekleri…
 	Panels	Paneller
@@ -2142,10 +2142,10 @@
 	Plug-in…	Eklenti…
 	Point Sample	Nokta Örneği
 	Point Text Objects	Nokta Metin Nesneleri
-	Points	Puanlar
-	Points: clicks add free points	Puanlar: tıklamalar ücretsiz puanlar ekler
+	Points	Punto
+	Points: clicks add free points	Noktalar: tıklamalar serbest noktalar ekler
 	Polar Grid	Kutupsal Izgara
-	Polar Grid Tool	Polar Izgara Aracı
+	Polar Grid Tool	Yuvarlak Izgara Aracı
 	Polygon	Çokgen
 	Polygon Properties:	Poligon Özellikleri:
 	Polygon Tool	Çokgen Aracı
@@ -2205,7 +2205,7 @@
 	Print Setup	Yazdırma Kurulumu
 	Print Tiling	Döşemeyi Yazdır
 	Print Tiling Pages	Döşeme Sayfalarını Yazdır
-	Print Tiling Tool	Yazdırma Döşeme Aracı
+	Print Tiling Tool	Baskı Döşeme Aracı
 	Printer	Yazıcı
 	Printer mark type:	Yazıcı işareti türü:
 	Printer profile:	Yazıcı profili:
@@ -2235,7 +2235,7 @@
 	Punctuation Space	Noktalama İşareti Alanı
 	Puppet Warp	Kukla Çözgü
 	Puppet Warp Pins	Kukla Çözgü Pimleri
-	Puppet Warp Tool	Kukla Çözgü Aracı
+	Puppet Warp Tool	Kukla Çarpıtma Aracı
 	Quality {quality}	Kalite {quality}
 	Quality:	Kalite:
 	Quarter Space	Çeyrek Alan
@@ -2312,7 +2312,7 @@
 	Recovery Data	Kurtarma Verileri
 	Rectangle	Dikdörtgen
 	Rectangle Cut	Dikdörtgen Kesim
-	Rectangle Cut Tool	Dikdörtgen Kesme Aleti
+	Rectangle Cut Tool	Dikdörtgen Kesme Aracı
 	Rectangle Properties:	Dikdörtgen Özellikleri:
 	Rectangle Tool	Dikdörtgen Aracı
 	Rectangle: Sunshine	Dikdörtgen: Güneş Işığı
@@ -2452,7 +2452,7 @@
 	Reset {}	{}'ı sıfırla
 	Reshape	Yeniden şekillendir
 	Reshape Segment	Segmenti Yeniden Şekillendir
-	Reshape Tool	Yeniden Şekillendirme Aracı
+	Reshape Tool	Yeniden Şekillendir Aracı
 	Reshape Type Area	Yazı Alanını Yeniden Şekillendir
 	Resolution:	Çözünürlük:
 	Responsive	duyarlı
@@ -2489,7 +2489,7 @@
 	Rotate	Döndür
 	Rotate 90° CW	90° CW döndür
 	Rotate Tool	Döndürme Aracı
-	Rotate View Tool	Görünüm Aracını Döndür
+	Rotate View Tool	Görünümü Döndür Aracı
 	Rotate…	Döndür…
 	Rotation	Döndürme
 	Roughen…	Pürüzlendirmek…
@@ -2498,7 +2498,7 @@
 	Round Join	Yuvarlak Katıl
 	Rounded	Yuvarlak
 	Rounded Rectangle	Yuvarlatılmış Dikdörtgen
-	Rounded Rectangle Tool	Yuvarlatılmış Dikdörtgen Aracı
+	Rounded Rectangle Tool	Yuvarlak Köşeli Dikdörtgen Aracı
 	Rounded Rectangle…	Yuvarlatılmış Dikdörtgen…
 	Row Size:	Satır Boyutu:
 	Rows:	Satırlar:
@@ -2629,7 +2629,7 @@
 	Scallop Tool	Tarak Aracı
 	Scans:	Taramalar:
 	Scatter	Dağılım
-	Scatter Graph Tool	Dağılım Grafiği Aracı
+	Scatter Graph Tool	Saçılma Grafiği Aracı
 	Scissors Tool	Makas Aracı
 	Scratch Disks	Kazı Diskleri
 	Screen	Ekran
@@ -2739,7 +2739,7 @@
 	Shaper Tool	Şekillendirici Aracı
 	Shapes	Şekiller
 	Shear	Kesme
-	Shear Tool	Eğriltme Aracı
+	Shear Tool	Yamultma Aracı
 	Shear…	Kesme…
 	Shell Lower…	Kabuk Alt Kısmı…
 	Shell Upper…	Kabuk Üstü…
@@ -2847,7 +2847,7 @@
 	Slice	Dilim
 	Slice Options	Dilim Seçenekleri
 	Slice Options…	Dilim Seçenekleri…
-	Slice Selection Tool	Dilim Seçim Aracı
+	Slice Selection Tool	Dilim Seçimi Aracı
 	Slice Tool	Dilim Aracı
 	Slice Type:	Dilim Türü:
 	Slices	Dilimler
@@ -2871,7 +2871,7 @@
 	Relative	akraba
 	Absolute	Mutlak
 	Smooth Color	Pürüzsüz Renk
-	Smooth Tool	Pürüzsüz Alet
+	Smooth Tool	Düzgünleştirme Aracı
 	Snap Curves To Lines	Eğrileri Çizgilere Yasla
 	View:	Görünüm:
 	Tracing Result	İzleme Sonucu
@@ -2921,8 +2921,8 @@
 	Spread:	Yayılma:
 	Square	Kare
 	Squeeze…	Sıkıştır…
-	Stacked Bar Graph Tool	Yığılmış Çubuk Grafik Aracı
-	Stacked Column Graph Tool	Yığılmış Sütun Grafik Aracı
+	Stacked Bar Graph Tool	Yığınlanmış Çubuk Grafik Aracı
+	Stacked Column Graph Tool	Yığınlanmış Sütun Grafik Aracı
 	Stair Step	Merdiven Basamağı
 	Standard Ligatures	Standart Bitişik Harfler
 	Standard Vertical Roman Alignment	Standart Dikey Roma Hizalaması
@@ -3027,15 +3027,15 @@
 	Symbol Instance	Sembol Örneği
 	Symbol Libraries	Sembol Kitaplıkları
 	Symbol Libraries (on the roadmap)	Sembol Kitaplıkları (yol haritasında)
-	Symbol Screener Tool	Sembol Eleme Aracı
+	Symbol Screener Tool	Sembol Perdeleyici Aracı
 	Symbol Scruncher Tool	Sembol Ezici Aracı
-	Symbol Shifter Tool	Sembol Değiştirme Aracı
-	Symbol Sizer Tool	Sembol Boyutlandırma Aracı
-	Symbol Spinner Tool	Sembol Döndürücü Aracı
+	Symbol Shifter Tool	Sembol Yer Değiştirme Aracı
+	Symbol Sizer Tool	Sembol Boyutlandırıcı Aracı
+	Symbol Spinner Tool	Sembol Çevirici Aracı
 	Symbol Sprayer	Sembol Püskürtücü
-	Symbol Sprayer Tool	Sembol Püskürtme Aracı
-	Symbol Stainer Tool	Sembol Boyama Aracı
-	Symbol Styler Tool	Sembol Şekillendirici Aracı
+	Symbol Sprayer Tool	Sembol Spreyi Aracı
+	Symbol Stainer Tool	Sembol Boyayıcı Aracı
+	Symbol Styler Tool	Sembol Stilcisi Aracı
 	Symbolism Tool	Sembolizm Aracı
 	Symbols	Semboller
 	System Layout	Sistem Düzeni
@@ -3120,7 +3120,7 @@
 	Top in Front	Önde Üst
 	Top:	Üst:
 	Total Width:	Toplam Genişlik:
-	Touch Type Tool	Dokunmatik Tip Aracı
+	Touch Type Tool	Dokunmatik Yazım Aracı
 	Trace	İz
 	Trace the image with the Default preset	Görüntüyü Varsayılan ön ayarla izleyin
 	Tracking	Takip
@@ -3175,10 +3175,10 @@
 	Type on a Path	Bir Yola Yazın
 	Type on a Path Options	Yol Seçenekleri Üzerine Yazma
 	Type on a Path Options…	Yol Seçenekleri Üzerine Yazma…
-	Type on a Path Tool	Yol Aracına Yazın
+	Type on a Path Tool	Yola Yazma Aracı
 	Type Orientation	Tip Yönü
 	Type stays text, and every stroke is a line with its lineweight and dashes.	Yazı metin olarak kalır ve her kontur, çizgi kalınlığı ve tireleriyle birlikte bir çizgidir.
-	Type Tool	Yazı Aracı
+	Type Tool	Yazım Aracı
 	Type:	Tür:
 	Type…	Tür…
 	UI Brightness	Kullanıcı Arayüzü Parlaklığı
@@ -3318,14 +3318,14 @@
 	Vertical Align Center	Dikey Hizalama Merkezi
 	Horizontal & Vertical Align Center	Yatay ve Dikey Hizalama Merkezi
 	Vertical Align Top	Dikey Hizalama Üst
-	Vertical Area Type Tool	Dikey Alan Tipi Aracı
+	Vertical Area Type Tool	Dikey Alan Metni Aracı
 	Vertical Distribute Bottom	Dikey Dağıtım Alt
 	Vertical Distribute Center	Dikey Dağıtım Merkezi
 	Vertical Distribute Space	Dikey Dağıtım Alanı
 	Vertical Distribute Top	Dikey Dağıt Üst
 	Vertical Scale %	Dikey Ölçek %'si
-	Vertical Type on a Path Tool	Yola Dikey Yazma Aracı
-	Vertical Type Tool	Dikey Tip Aracı
+	Vertical Type on a Path Tool	Dikey Yola Yazma Aracı
+	Vertical Type Tool	Dikey Metin Aracı
 	Vertical:	Dikey:
 	Very High	Çok Yüksek
 	View	Görünüm
@@ -3339,7 +3339,7 @@
 	Warnings	Uyarılar
 	Warp	Çözgü
 	Warp Options	Çözgü Seçenekleri
-	Warp Tool	Çözgü Aracı
+	Warp Tool	Çarpıtma Aracı
 	Wave…	Dalga…
 	Web 1920×1080	İnternet 1920×1080
 	Web Safe 216	Web Güvenliği 216
@@ -3529,15 +3529,15 @@ axis	Vertical	Dikey
 axis	Both	Her İkisi
 	Drag to move	Taşımak için sürükleyin
 	Drag to move out of the set	Setin dışına çıkmak için sürükleyin
-	Drag to float as a toolbar	Araç çubuğu olarak yüzmek için sürükleyin
-	Put back in the toolbar	Araç çubuğuna geri koy
-	Float Panel	Şamandıra Paneli
+	Drag to float as a toolbar	Bağımsız araç çubuğu yapmak için sürükleyin
+	Put back in the toolbar	Araç çubuğuna geri yerleştir
+	Float Panel	Paneli Yüzer Yap
 	Dock Panel	Bağlantı İstasyonu Paneli
-	Drag to float the panel group	Panel grubunu kaydırmak için sürükleyin
+	Drag to float the panel group	Panel grubunu ayırmak için sürükleyin
 	Put back in the dock	Dock'a geri koy
-	Drag to float the toolbar	Araç çubuğunu kaydırmak için sürükleyin
+	Drag to float the toolbar	Araç çubuğunu ayırmak için sürükleyin
 	Drag to the window's left edge to dock	Sabitlemek için pencerenin sol kenarına sürükleyin
-	Float Tool Group	Şamandıra Takım Grubu
+	Float Tool Group	Araç Grubunu Yüzer Yap
 @msg	no library `{id}`	`{id}` kütüphanesi yok
 @msg	select some type first	önce bir tür seçin
 @msg	{_1} has no {_2} style	{_1}'nin {_2} stili yok
@@ -4665,7 +4665,7 @@ lighting	Light	Işık
 	Pixel	Piksel
 	Placed Document	Yerleştirilen Belge
 	Plus	Artı
-	Points:	Puanlar:
+	Points:	Punto:
 	Portrait (flipped)	Portre (ters çevrilmiş)
 	Positive	Olumlu
 	Poster 18 × 24 in	Poster 18 × 24 inç
