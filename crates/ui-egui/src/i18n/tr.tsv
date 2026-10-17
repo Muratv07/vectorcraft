@@ -4964,3 +4964,160 @@ theme	Appearance	Görünüm
 @msg	no symbol named `{n}`	`{n}` adında bir sembol yok
 	Artboard Options: edit with the Artboard tool	Çalışma Yüzeyi Seçenekleri: Çalışma Yüzeyi aracıyla düzenleme
 @msg	this is a PostScript file (an .ai saved in an older format or without PDF compatibility, or an EPS file), which can't be opened yet: save it as PDF, PDF-compatible .ai or SVG	bu henüz açılamayan bir PostScript dosyasıdır (eski bir formatta kaydedilmiş veya PDF uyumluluğu olmayan bir .ai veya bir EPS dosyası): PDF, PDF uyumlu .ai veya SVG olarak kaydedin
+	Add Event	Etkinlik Ekle
+	Add JavaScript File	JavaScript Dosyası Ekle
+	Apply Data Set	Veri Kümesini Uygula
+	Cancel Pattern Editing	Desen Düzenlemeyi İptal Et
+	Change to Artboard Rulers	Çalışma Yüzeyi Cetvellerine Geç
+	Chop Design	Tasarımı Kırp
+	Clear Events	Etkinlikleri Temizle
+	Close Gaps With Paths	Boşlukları Yollarla Kapat
+	Color wheel	Renk tekerleği
+	Column Type:	Sütun Türü:
+	Connect	Bağla
+	Copy Appearance	Görünümü Kopyala
+	Copy Guide	Kılavuzu Kopyala
+	Copy in Perspective	Perspektifte Kopyala
+	Create Slice from Selection	Seçimden Dilim Oluştur
+	Create Slices from Guides	Kılavuzlardan Dilimler Oluştur
+	Cutout	Kesme
+	Cutout…	Kesme…
+	Delete All Slices	Tüm Dilimleri Sil
+	Delete Data Sets	Veri Kümelerini Sil
+	Delete Graphic Styles	Grafik Stillerini Sil
+	Delete Guide	Kılavuzu Sil
+	Delete Guides	Kılavuzları Sil
+	Delete Slice	Dilimi Sil
+	Delete Style	Stili Sil
+	Delete Variables	Değişkenleri Sil
+	Delete View	Görünümü Sil
+	Done Editing Pattern	Desen Düzenlemeyi Bitir
+	Duplicate Rows	Satırları Çoğalt
+	Each Design Represents:	Her Tasarımın Temsil Ettiği:
+	Edge Fidelity	Kenar Doğruluğu
+	Edge Intensity	Kenar Yoğunluğu
+	Edge Simplicity	Kenar Sadeliği
+	Edge Thickness	Kenar Kalınlığı
+	Edit Perspective Grid	Perspektif Izgarasını Düzenle
+	Enable Guides for 9-Slice Scaling	9 Dilimli Ölçekleme İçin Kılavuzları Etkinleştir
+	Event:	Etkinlik:
+	Expand Blend	Karışımı Genişlet
+	Expand Envelope	Zarfı Genişlet
+	Expand Image Trace	Görüntü İzlemeyi Genişlet
+	Expand Live Paint	Canlı Boyamayı Genişlet
+	File or URL:	Dosya veya URL:
+	First Artboard	İlk Çalışma Yüzeyi
+	For Fractions:	Kesirler İçin:
+	Gap Detection	Boşluk Algılama
+	Gap Options	Boşluk Seçenekleri
+	Gap Preview Color:	Boşluk Önizleme Rengi:
+	Glow Brightness	Parıltı Parlaklığı
+	Glow Size	Parıltı Boyutu
+	Graph Column	Grafik Sütunu
+	JavaScript Files	JavaScript Dosyaları
+	JavaScript:	JavaScript:
+	Large Gaps	Büyük Boşluklar
+	Last Artboard	Son Çalışma Yüzeyi
+	Levels	Düzeyler
+	Library Panel Options	Kütüphane Paneli Seçenekleri
+	Link JavaScript Files…	JavaScript Dosyalarını Bağla…
+	Live Shape	Canlı Şekil
+	Lock Variables	Değişkenleri Kilitle
+	Make Blend	Karışım Yap
+	Make Dynamic	Dinamik Yap
+	Make Intertwine	İç İçe Geçir
+	Make Live Paint	Canlı Boyama Yap
+	Make Pattern	Desen Yap
+	Make Slice	Dilim Yap
+	Medium Gaps	Orta Boşluklar
+	Merge Live Paint	Canlı Boyamayı Birleştir
+	Mesh Point Color	Ağ Noktası Rengi
+	Move Envelope Point	Zarf Noktasını Taşı
+	Move Plane and Copy Objects	Düzlemi Taşı ve Nesneleri Kopyala
+	Move Plane and Objects	Düzlemi ve Nesneleri Taşı
+	Move Slice	Dilimi Taşı
+	Move Type on a Path	Yol Üzerindeki Yazıyı Taşı
+	Neon Glow	Neon Parıltısı
+	Neon Glow…	Neon Parıltısı…
+	New Artboard Options…	Yeni Çalışma Yüzeyi Seçenekleri…
+	New Guide	Yeni Kılavuz
+	Next Artboard	Sonraki Çalışma Yüzeyi
+	Paint Stops At:	Boyanın Durduğu Yer:
+	Persistent	Kalıcı
+	Place from Library	Kütüphaneden Yerleştir
+	Poster Edges	Poster Kenarları
+	Poster Edges…	Poster Kenarları…
+	Posterization	Posterleştirme
+	Previous Artboard	Önceki Çalışma Yüzeyi
+	Rearrange Artboards	Çalışma Yüzeylerini Yeniden Düzenle
+	Release Blend	Karışımı Serbest Bırak
+	Release Envelope	Zarfı Serbest Bırak
+	Release Intertwine	İç İçe Geçirmeyi Serbest Bırak
+	Release Live Paint	Canlı Boyamayı Serbest Bırak
+	Release Repeat	Yinelemeyi Serbest Bırak
+	Release Slice	Dilimi Serbest Bırak
+	Release Threaded Text	Bağlantılı Metni Serbest Bırak
+	Remove Color Profile…	Renk Profilini Kaldır…
+	Remove JavaScript File	JavaScript Dosyasını Kaldır
+	Remove Selected Entry	Seçili Girişi Kaldır
+	Rename Design	Tasarımı Yeniden Adlandır
+	Rename Style	Stili Yeniden Adlandır
+	Rename View	Görünümü Yeniden Adlandır
+	Reorder Appearance	Görünümü Yeniden Sırala
+	Reorder Artboards	Çalışma Yüzeylerini Yeniden Sırala
+	Repeating	Yinelenen
+	Reshape Spine	Omurgayı Yeniden Şekillendir
+	Resize	Yeniden Boyutlandır
+	Resize Artboard	Çalışma Yüzeyini Yeniden Boyutlandır
+	Resize Slice	Dilimi Yeniden Boyutlandır
+	Resize Type Area	Yazı Alanını Yeniden Boyutlandır
+	Scale Design	Tasarımı Ölçekle
+	Scale in Perspective	Perspektifte Ölçekle
+	Shape Builder Delete	Şekil Oluşturucu Silme
+	Sliding	Kayar
+	Small Gaps	Küçük Boşluklar
+	Sort Swatches	Renk Örneklerini Sırala
+	Step up or down	Bir adım yukarı veya aşağı
+	Symbol Screener	Sembol Saydamlaştırıcı
+	Symbol Scruncher	Sembol Sıkıştırıcı
+	Symbol Shifter	Sembol Kaydırıcı
+	Symbol Sizer	Sembol Boyutlandırıcı
+	Symbol Spinner	Sembol Döndürücü
+	Symbol Stainer	Sembol Renklendirici
+	Symbol Styler	Sembol Stil Verici
+	Text Orientation	Metin Yönü
+	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Kayıt panelindeki ad “{typed}” idi; VectorCraft dosya türünün uzantısını ekledi. Dosyayı değiştirmek içeriğinin üzerine yazar.
+	Thread Text	Metni Bağla
+	Trackpad Gesture to Rotate View	Görünümü Döndürmek İçin İzleme Dörtgeni Hareketi
+	Typing	Yazma
+	Uniformly Scaled	Tekdüze Ölçeklenmiş
+	Unlock Variables	Değişkenlerin Kilidini Aç
+	Variable Font	Değişken Yazı Tipi
+	Vertically Scaled	Dikey Ölçeklenmiş
+	“{name}” already exists. Replace it?	“{name}” zaten var. Değiştirilsin mi?
+@msg	Persistent libraries not found: {files}	Kalıcı kütüphaneler bulunamadı: {files}
+@msg	Save writes {_1}, not {_2}: use file.saveAsTemplate to write it	Kaydet {_1} yazar, {_2} değil: yazmak için file.saveAsTemplate kullanın
+@msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` bir kütüphane paneli değil (bkz. window.swatchLibrary)
+@msg	`{key}` must be a #rrggbb color	`{key}` bir #rrggbb rengi olmalıdır
+@msg	a key object sits on that point	bu noktanın üzerinde bir anahtar nesne bulunuyor
+@msg	a linked image can't become a gradient mesh: embed it first	bağlantılı bir görüntü degrade ağına dönüştürülemez: önce görüntüyü gömün
+@msg	a mask has more than one art block	bir maskede birden fazla çizim bloğu var
+@msg	a spine keeps at least two points	bir omurga en az iki nokta barındırır
+@msg	cancelled; nothing was changed	iptal edildi; hiçbir şey değiştirilmedi
+@msg	handle must be in or out	handle in veya out olmalıdır
+@msg	index must be ≥ 0	dizin ≥ 0 olmalıdır
+@msg	library panel `{given}` isn't open	`{given}` kütüphane paneli açık değil
+@msg	mask art ends outside a mask dictionary	maske çizimi bir maske sözlüğünün dışında bitiyor
+@msg	missing number `{key}`	`{key}` sayısı eksik
+@msg	no such spine point	böyle bir omurga noktası yok
+@msg	no such spine segment	böyle bir omurga segmenti yok
+@msg	not a blend	bir karışım değil
+@msg	select a blend or give `id`	bir karışım seçin veya `id` belirtin
+@msg	t, dx and dy must be finite	t, dx ve dy sonlu olmalıdır
+@msg	the blend has no spine	karışımın omurgası yok
+@msg	the image has no usable size or position	görüntünün kullanılabilir bir boyutu veya konumu yok
+@msg	the image's pixels can't be read	görüntünün pikselleri okunamıyor
+@msg	the spine has no segments	omurganın segmenti yok
+@msg	too many library panels were opened in this session	bu oturumda çok fazla kütüphane paneli açıldı
+@msg	variables are locked	değişkenler kilitli
+@msg	x and y must be finite	x ve y sonlu olmalıdır
